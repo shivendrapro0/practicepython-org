@@ -1,5 +1,3 @@
-#https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html
-
 import random,string
 
 def getRandom(num=4):
